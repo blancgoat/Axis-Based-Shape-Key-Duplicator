@@ -9,13 +9,15 @@
 you want to copy virtexes only unstaged zone
 
 ![image](https://github.com/user-attachments/assets/4936f698-f6db-45d9-99e4-b35d60b54f23)
-he X-axis should be set to 0, and a reference for the Y-axis coordinate is needed, so I’m noting it down. In my case, it’s 1.4063.  
+X-axis should be set to 0,  
+And checked it because I need a reference to the Y-axis coordinates based on one vertex. it is 1.4063.
 (This model has its mesh lying down before rigging, so the reference axis is the Y-axis. In most cases, you’ll probably need to use the Z-axis.)
 
 ![image](https://github.com/user-attachments/assets/2ee87d0e-98bc-4ace-ae3c-416d03080400)
 After selecting the axis shape in the sidebar, select the object and then choose the shape key. Then, add the appropriate values. I did it as shown in the picture.
 
 ![image](https://github.com/user-attachments/assets/8e237713-e97e-46db-9037-6d98432dc749)
-and job done!  
-The key point is that the mouth has created an immobile key.  
+and click 'Create Shape Key'  
+job done!  
+The important point is that the mouth does not move with that key.    
 Rename key. In this case, 'cheekSquintLeft' seems like an appropriate name.
