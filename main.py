@@ -6,7 +6,7 @@ bl_info = {
     "location": "View3D > Sidebar > Axis Shape",
     "description": "Creates a shape key with changes applied only to vertices that satisfy the specific axis condition.",
     "warning": "",
-    "wiki_url": "github.com/blancgoat",
+    "wiki_url": "https://github.com/blancgoat/Axis-Based-Shape-Key-Duplicator",
     "category": "Mesh",
 }
 
